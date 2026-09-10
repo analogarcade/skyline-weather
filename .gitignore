@@ -1,0 +1,15 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local secrets and environment files
+.env
+.env.*
+*.pem
+*.key
+secrets/
+
+# Browser/test artifacts
+screenshots/
+coverage/
