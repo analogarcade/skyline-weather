@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Skyline Weather mark</title>
+  <desc id="desc">A simple sun and horizon mark</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8bd5ff"/><stop offset="1" stop-color="#ffc875"/></linearGradient></defs>
+  <rect width="160" height="160" rx="38" fill="#10233b"/>
+  <circle cx="84" cy="67" r="29" fill="url(#g)"/>
+  <path d="M24 113c17-18 31-18 46 0 15-21 30-21 46 0 8-10 15-13 20-13v36H24z" fill="#8bd5ff" opacity=".9"/>
+  <path d="M24 127h112" stroke="#f3f7fc" stroke-width="5" stroke-linecap="round" opacity=".75"/>
+</svg>

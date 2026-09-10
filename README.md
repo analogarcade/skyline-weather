@@ -2,6 +2,8 @@
 
 A minimal, single-page weather app that runs by opening `index.html` directly in a browser.
 
+![Skyline Weather mark](assets/skyline-mark.svg)
+
 ## Features
 
 - Search any city and press Enter or Search
@@ -10,6 +12,7 @@ A minimal, single-page weather app that runs by opening `index.html` directly in
 - LocalStorage remembers the last searched location
 - No login, API key, build step, backend, or installation
 - Open-Meteo geocoding and forecast APIs
+- Built-in About panel with privacy details
 
 ## Run
 
