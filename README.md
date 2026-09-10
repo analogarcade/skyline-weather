@@ -2,7 +2,9 @@
 
 A minimal, single-page weather app that runs by opening `index.html` directly in a browser.
 
-![Skyline Weather mark](assets/skyline-mark.svg)
+Current release: **v1.0.0**
+
+![Skyline Weather app screenshot](assets/skyline-screenshot.svg)
 
 ## Features
 
