@@ -2,7 +2,13 @@
 
 A minimal, single-page weather app that runs by opening `index.html` directly in a browser.
 
-Current release: **v1.0.0**
+Current release: **v1.0.1**
+
+## About
+
+Skyline Weather is a quiet, single-page weather dashboard designed for quick daily checks. Search for a city, see the current conditions, compare the seven-day outlook, and refresh the forecast without accounts, setup, or distracting UI. The app is hosted publicly through GitHub Pages and runs entirely in the browser.
+
+**View the hosted app:** [analogarcade.github.io/skyline-weather](https://analogarcade.github.io/skyline-weather/)
 
 ![Skyline Weather app screenshot](assets/skyline-screenshot.svg)
 
