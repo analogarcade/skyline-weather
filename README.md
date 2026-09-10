@@ -2,7 +2,7 @@
 
 A minimal, single-page weather app that runs by opening `index.html` directly in a browser.
 
-Current release: **v1.0.1**
+Current release: **v1.0.0**
 
 ## About
 
